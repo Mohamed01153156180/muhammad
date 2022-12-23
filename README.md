@@ -1,7 +1,7 @@
 - 👋 Hi, I’m muhammad hisham
-- 👀 I’m interested in editing 
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on editing video
+- 👀 I’m interested in editing and data analysis
+- 🌱 I have finished the data analyst professional track on udacity
+- 💞️ I’m looking to help people to edit videos and analyze data
 - 📫 How to reach me muhammad.hisham900@gmail.com
 
 <!---
